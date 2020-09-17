@@ -43,3 +43,4 @@ $person3 = new Person('Frank', 'Ocean', 'Smith');
 echo $person1->getName() . ' ' . $person1->getMiddleName() . ' ' . $person1->getSurname() . PHP_EOL;
 echo $person2->getName() . ' ' . $person2->getMiddleName() . ' ' . $person2->getSurname() . PHP_EOL;
 echo $person3->getName() . ' ' . $person3->getMiddleName() . ' ' . $person3->getSurname() . PHP_EOL;
+
