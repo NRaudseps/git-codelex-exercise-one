@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Taste;
+namespace App;
 
 abstract class Taste
 {
